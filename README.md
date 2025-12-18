@@ -5,7 +5,7 @@ I haven't found the best forum for asking/answering question and posting present
 
 Questions can be asked and answered in the issues and we can work on editing the answers to be more complete over time.
 
-#Current study topic:
+# Current study topic:
 
 We are currently working through the online software foundations books found here:
 

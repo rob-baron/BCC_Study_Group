@@ -9,13 +9,13 @@ Questions can be asked and answered in the issues and we can work on editing the
 
 We are currently working through the online software foundations books found here:
 
-    https://softwarefoundations.cis.upenn.edu
+[https://softwarefoundations.cis.upenn.edu](https://softwarefoundations.cis.upenn.edu)
 
 In order to be consistent, download the current copy of the books, this way they will not change as we work through them.  Keep in mind that they may refer to coq, and that coq has been rebranded as rocq.  
 
 I have set up a separate repository for rocq's configuration in a dockerfile, and some suggestions as to how to setup VS code to work with rocq's docker image.  Although I am currently using this with VS Code, I am not opposed to setting up emacs to run in the docker image which can also be used with rocq.  My repository for this is located here:
 
-    https://github.com/rob-baron/rocq-docker/blob/main/README.md
+[https://github.com/rob-baron/rocq-docker/blob/main/README.md](https://github.com/rob-baron/rocq-docker/blob/main/README.md)
 
 
 
